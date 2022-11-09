@@ -1,0 +1,12 @@
+Aug 17, 2018 12:06:20 PM com.travelcard.core.CheckOutAutomaton checkOut
+INFO: CHECKOUT: Automaton at Sydhavn St : the travel card is successfully checked-out
+Aug 17, 2018 12:06:21 PM com.travelcard.core.Kiosk issueTravelCard
+INFO: CREDIT CARD :credit card is validTravel card was issued
+Aug 17, 2018 12:06:21 PM com.travelcard.core.Kiosk issueTravelCard
+INFO: CREDIT CARD :credit card is validTravel card was issued
+Aug 17, 2018 12:06:21 PM com.travelcard.core.Kiosk addBalance
+INFO: CREDIT CARD :credit card is validTravel card was reloaded successfully
+Aug 17, 2018 12:06:21 PM com.travelcard.core.Kiosk addBalance
+INFO: CREDIT CARD :credit card is validTravel card was reloaded successfully
+Aug 17, 2018 12:06:21 PM com.travelcard.core.Kiosk addBalance
+INFO: CREDIT CARD :credit card is validTravel card was reloaded successfully
